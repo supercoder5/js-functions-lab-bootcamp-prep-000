@@ -1,2 +1,3 @@
 // write your code below!
-index.
+function happyHolidays()
+  return `Happy holidays!`
